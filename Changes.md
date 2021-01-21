@@ -5,7 +5,7 @@ Release available [here](https://github.com/CBIIT/ccdhwebportal/releases/tag/v1.
 
 2021-01-08
 
-First release of the web portal, which contains information about CCCDH incuding pages:
+First release of the web portal, which contains information about CCDH including pages:
 - About CCDH
 - Standards and Tooling
 - Support
