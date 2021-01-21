@@ -1,6 +1,6 @@
 # Web Portal Release Notes
 
-## v1.0
+## v1.0.0
 Release available [here](https://github.com/CBIIT/ccdhwebportal/releases/tag/v1.0)
 
 2021-01-08
