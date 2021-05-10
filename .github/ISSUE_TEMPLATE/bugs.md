@@ -3,8 +3,7 @@ name: Bugs
 about: Report all kinds or bugs or typos on CCDH website or any tooling.
 title: ''
 labels: bug
-assignees: 
-keblumhardt
+assignees: keblumhardt
 
 ---
 
