@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Ask a question related to any aspect of CCDH.
-title: '[question]'
+title: ''
 labels: question
 assignees: 
 keblumhardt
