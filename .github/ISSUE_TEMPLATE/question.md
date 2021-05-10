@@ -3,8 +3,7 @@ name: Question
 about: Ask a question related to any aspect of CCDH.
 title: ''
 labels: question
-assignees: 
-keblumhardt
+assignees: keblumhardt
 
 ---
 
