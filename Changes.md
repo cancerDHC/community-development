@@ -1,5 +1,22 @@
 # Web Portal Release Notes
 
+## v1.4.0
+Release available [here](https://github.CBIIT/ccdhwebportal/releases/tag/v1.4.0)
+
+2021-06-14
+
+In this release:
+- Drupal Upgrade v8.9.15 --> v8.9.16
+- Rebuilt theme from zurb_foundation and reconfigured scss settings
+- Fixes to responsive navigation menu
+- Added Block, "Join Us on Slack"
+- Revised homepage (pending review)
+- Fixed page canonical settings for Google SEO with metatag module
+- Switch Glossary numeric pager to an alpha index
+- Add "Back to Top" widget for easy page navigation.
+
+
+
 ## v1.3.0
 Release available [here](https://github.CBIIT/ccdhwebportal/releases/tag/v1.3.0)
 
@@ -21,7 +38,7 @@ In this release:
 - Add "Community Interactions" page under the "Concierge" with new content & image
 - Correct broken links throughout.
 - Consolidate and revise "About" page content
-- 
+
 
 ## v1.2.0
 Release available [here](https://github.CBIIT/ccdhwebportal/releases/tag/v1.2.0)
