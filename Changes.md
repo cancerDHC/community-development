@@ -1,9 +1,14 @@
 # Web Portal Release Notes
 
+## v1.5.0
+Release Date: 2021-07-09
+
+The release and all details can be found [here](https://github.com/CBIIT/ccdhwebportal/releases/tag/v1.5.0)
+
 ## v1.4.0
 Release available [here](https://github.CBIIT/ccdhwebportal/releases/tag/v1.4.0)
 
-2021-06-14
+Release Date: 2021-06-14
 
 In this release:
 - Drupal Upgrade v8.9.15 --> v8.9.16
@@ -20,7 +25,7 @@ In this release:
 ## v1.3.0
 Release available [here](https://github.CBIIT/ccdhwebportal/releases/tag/v1.3.0)
 
-2021-05-26
+Release Date: 2021-05-26
 
 In this release:
 - Drupal Upgrade v8.9.14 --> v8.9.15
