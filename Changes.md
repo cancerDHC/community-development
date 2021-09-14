@@ -1,5 +1,10 @@
 # Web Portal Release Notes
 
+## v1.9.0
+Release Date: 2021-09-15
+
+The release and all details can be found [here](https://github.com/CBIIT/ccdhwebportal/releases/tag/v1.9.0)
+
 ## v1.8.0
 Release Date: 2021-08-31
 
